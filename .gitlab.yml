@@ -1,0 +1,4 @@
+task:
+  script: 
+    echo "Teste de integração"
+    echo "Teste de integração"

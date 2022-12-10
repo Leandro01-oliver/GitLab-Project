@@ -20,6 +20,7 @@
 !.gitignore
 !.gitkeep
 !.gitpod.yml
+!.gitlab.yml
 !.mailmap
 !.nycrc
 !.yamllint.yaml
